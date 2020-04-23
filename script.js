@@ -24,5 +24,7 @@ nameTag.innerText = name
 const nameInput = document.getElementById('yourName')
 
 function yourNameChanged() {
-  nameTag.innerText = nameInput.value
+  let name = nameInput.value.trim()
+
+  nameTag.innerText = name.length ? name : 'Squirt'
 }
