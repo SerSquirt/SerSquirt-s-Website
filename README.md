@@ -1,4 +1,4 @@
-# SerSquirt-s-Website
-Sersquirt website repository
+# SerSquirt's Website
+SerSquirt's website repository
 
-This is the code for my website! You can find my website here: http://sersquirt.achee.com
+This is the code for my website! You can find my website [Here!](http://sersquirt.achee.com)
