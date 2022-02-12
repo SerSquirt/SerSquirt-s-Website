@@ -1,4 +1,4 @@
-var name="Squirt"
+var name = "Squirt"
 
 function changeName() {
   const nameTag = document.getElementById('name')
