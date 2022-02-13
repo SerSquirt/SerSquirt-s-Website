@@ -1,3 +1,41 @@
-body {background: lightgreen}
+body {background: #2b8ddc}
 body {color: black}
 body {font-family: comic Arial, Helvetica, sans-serif}
+
+
+nav {
+    height: 50px;
+    background-color: #2b8ddc;
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  nav ul {
+    padding: 0;
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+  }
+  
+  nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+  }
+  
+  nav a {
+    display: inline-block;
+    font-size: 2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+  }
+  
+  nav form {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 2em;
+  }
+  
