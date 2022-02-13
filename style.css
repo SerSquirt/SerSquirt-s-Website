@@ -1,11 +1,11 @@
-body {background: lightgreen}
+body {background: #2b8ddc}
 body {color: black}
 body {font-family: comic Arial, Helvetica, sans-serif}
 
 
 nav {
     height: 50px;
-    background-color: #73e499;
+    background-color: #2b8ddc;
     display: flex;
     margin-bottom: 10px;
   }
